@@ -1,0 +1,6 @@
+YouTube Link: https://www.youtube.com/watch?v=bZzyPscbtI8&t=2140s
+GitHub Link: https://github.com/daveebbelaar/ai-cookbook/tree/main/patterns/workflows
+Claude Blog: https://www.anthropic.com/engineering/building-effective-agents
+OpenAI Docs: https://developers.openai.com/api/docs/quickstart
+OpenAI Platform: https://platform.openai.com/usage
+OpenAI Billing Overview: https://platform.openai.com/settings/organization/billing/overview
